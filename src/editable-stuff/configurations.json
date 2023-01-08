@@ -1,0 +1,45 @@
+{
+    "backgroundType": "gradient",
+    "plainBackgroundMode": "daylight",
+    "gradientColors": "#000000, #EE0000",
+    "FirstName": "my name is wika",
+    "MiddleName": "sun",
+    "LastName": "but you can call me anytime.",
+    "devDesc": "the master procrastinator",
+    "icons": [{
+            "id": 0,
+            "image": "fa-youtube",
+            "url": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+            "style": "socialicons"
+        },
+        {
+            "id": 1,
+            "image": "fa-twitch",
+            "url": "https://www.twitch.tv/bathtubsir",
+            "style": "socialicons"
+        },
+        {
+            "id": 2,
+            "image": "fa-roblox",
+            "url": "https://web.roblox.com/home",
+            "style": "socialicons"
+        },
+        {
+            "id": 3,
+            "image": "fa-linkedin",
+            "url": "https://www.linkedin.com/",
+            "style": "socialicons"
+        }
+    ],
+    "aboutHeading": "waddup",
+    "aboutDescription": "i'm alive i think(prob not tbh)",
+    "projectHeading": "totally myy work frfr",
+    "gitHubLink": "https://www.youtube.com/watch?v=oHg5SJYRHA0",
+    "gitHubUsername": "modulo88",
+    "gitHubQuerry": "/repos?sort=created&direction=desc",
+    "projectsLength": 4,
+    "showNavigationbar": true,
+    "resumeLink": "https://geekprank.com/fake-virus/",
+    "mobileNumber": "1-800-273-8255",
+    "emailId": ""
+}
